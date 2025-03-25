@@ -13,7 +13,7 @@ I am passionate about Artificial Intelligence and Machine Learning, coding, and 
 #### 📚 Frameworks & Libraries:
 - **Machine Learning & Deep Learning:** Scikit-Learn, TensorFlow, PyTorch
 - **Data Science & Visualization:** Numpy, Pandas, Seaborn, Matplotlib
-- **Web & App Development:** HTML, CSS, Streamlit
+- **Web Development:** HTML, CSS, Streamlit
 
 #### 🗄️ Databases:
 - MySQL | PostgreSQL
